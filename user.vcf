@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:JoJo;Boonraksa;;;
+FN: Boonraksa  Boonjeen 
+ORG:Montfort College;
+TITLE:Student
+EMAIL;type=INTERNET;type=WORK;type=pref:j.boonjeen@hotmail.com
+TEL;type=WORK;type=VOICE:+66 63 421 3909
+item1.ADR;type=WORK;type=pref:;;230/1 M.2\nT.KeeLek A. Mae Taeng\, Chiang Mai;;;50150;Thailand
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:facebook.com/baung.jo.fr
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
