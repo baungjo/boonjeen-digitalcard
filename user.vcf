@@ -10,5 +10,5 @@ TEL;type=Telephone;type=VOICE:+66 63 421 3909
 item1.ADR;type=Address;type=pref:;;230/1 M.2\nT.KeeLek A.Mae Taeng Chiang Mai;;;50150;Thailand
 item1.X-ABADR:sg
 item2.URL;type=pref:facebook.com/baung.jo.fr
-item2.X-ABLabel:_$!<Facebook>!$_
+item2.X-ABLabel:Facebook
 END:VCARD
